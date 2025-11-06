@@ -1,0 +1,1001 @@
+ID,Nom,Age,Experience,Diplome,Score_Technique,Score_Entretien,Competences,Statut
+1,Fatou Tchou,48,27.9,Licence,100.0,24.4,Docker;ML,0
+2,Mohamed Tchou,34,7.9,DUT,52.2,35.3,Angular,0
+3,Fatou Momo,27,2.0,Doctorat,59.7,71.0,React,1
+4,Mohamed Mbarga,40,21.2,BTS,81.3,76.0,React;Data Science;Spring;C++,0
+5,Amina Momo,38,17.5,Licence,91.7,48.6,Docker;SQL,1
+6,Mohamed Tchou,42,20.4,DUT,79.8,32.7,Java,0
+7,Marie Mbi,30,9.1,Master,63.2,84.3,Kubernetes,1
+8,Chantal Tchou,30,10.0,Licence,66.5,72.3,React;Kubernetes,1
+9,Jean Nkou,43,20.4,BTS,100.0,59.5,React,1
+10,Fatou Ngo,43,19.7,Licence,100.0,38.6,Angular,1
+11,Paul Tchou,22,1.6,BTS,38.3,49.3,Data Science;Angular,0
+12,Jean Mbi,41,17.1,Licence,84.9,47.8,React;C++;ML,1
+13,Jean Mbi,21,1.2,Master,43.9,59.6,C++;Java;SQL,0
+14,Marie Ngann,43,16.9,Master,68.7,75.3,Spring,1
+15,Yves Tchinda,49,31.1,Licence,100.0,62.3,ML,1
+16,Chantal Ngo,21,1.4,Licence,49.1,34.9,Java;SQL,0
+17,Fatou Ngo,40,19.8,Licence,100.0,69.3,C++;ML,0
+18,Fatou Mbarga,52,33.9,Master,100.0,59.4,Java,1
+19,Grace Nkou,31,15.0,Licence,63.5,59.6,Spring;Python,1
+20,Eric Fokam,41,23.0,Master,89.2,75.5,SQL;ML;React,0
+21,Marie Tchinda,44,17.5,Licence,97.3,34.4,Spring,1
+22,Grace Momo,46,21.2,Licence,100.0,49.5,Angular;SQL;Spring;ML,1
+23,Mohamed Ngo,47,24.1,Master,79.2,47.6,React;Angular,1
+24,Fatou Mbarga,35,14.1,Licence,55.6,28.0,Java,0
+25,Mohamed Mbarga,34,14.6,DUT,100.0,54.9,SQL;Spring;C++,0
+26,Amina Nkou,22,0.0,BTS,54.7,85.2,Docker;Data Science;React,1
+27,Yves Foko,26,5.6,Master,50.8,29.2,Spring;Docker;Python,0
+28,Rose Tchinda,40,16.7,Master,89.8,54.5,Python,0
+29,Chantal Mbarga,28,5.2,BTS,28.8,59.0,Java;Data Science;Docker;React,1
+30,Eric Nkou,37,11.8,Licence,73.6,51.7,Data Science;Spring,0
+31,Marie Foko,23,0.0,Licence,53.9,48.4,Spring;Data Science,0
+32,Eric Nkou,44,18.9,Licence,98.9,31.8,Spring;ML,0
+33,Amina Ngann,33,9.1,Doctorat,56.0,53.3,ML;Data Science;Python,1
+34,Yves Mbarga,28,10.2,Licence,71.4,39.4,Data Science;SQL;Spring,0
+35,Jean Momo,45,21.2,Master,81.3,24.3,C++,0
+36,Chantal Nkou,21,7.9,DUT,68.9,66.7,Angular;Spring;ML,0
+37,Yves Tchou,39,19.5,BTS,78.3,63.4,SQL;React,0
+38,Yves Tchou,47,26.6,Master,98.3,55.7,Python,1
+39,Grace Ngann,26,2.4,Licence,42.9,53.2,Kubernetes;Java;Docker,0
+40,Amina Ngann,27,8.1,BTS,74.0,65.0,ML,1
+41,Fatou Ngann,54,31.3,Master,100.0,58.1,SQL;Docker;Angular;Java,1
+42,Grace Fokam,33,12.4,Licence,72.0,62.7,Java;React;SQL,1
+43,Eric Momo,36,22.7,Licence,95.9,45.8,SQL;ML,1
+44,Grace Mbi,23,1.7,DUT,36.0,68.4,ML;Spring;C++;Java,1
+45,Amina Tchou,21,3.4,Master,53.2,59.5,Spring;Kubernetes,1
+46,Mohamed Mbarga,25,1.9,BTS,53.2,52.7,ML,0
+47,Paul Fokam,23,1.9,BTS,85.2,32.2,Docker,0
+48,Mohamed Tchou,48,32.3,Master,100.0,59.0,Docker;Spring,0
+49,Yves Fokam,37,14.1,Master,95.8,43.4,C++,0
+50,Marie Tchou,45,29.4,Master,100.0,46.1,Docker;Data Science;Angular;Python,1
+51,Amina Tchinda,53,34.1,Licence,100.0,38.6,Data Science,1
+52,Yves Foko,29,6.3,Master,83.7,40.1,Spring;Kubernetes,1
+53,Jean Ngann,33,13.9,Doctorat,82.3,79.7,C++;Docker;React;ML,1
+54,Eric Tchou,50,31.9,Master,100.0,73.6,Docker;C++;Kubernetes;React,1
+55,Yves Mbarga,34,14.9,BTS,79.2,76.9,Data Science;Python,1
+56,Mohamed Tchou,27,1.3,Master,67.3,37.9,Java;Spring,1
+57,Marie Mbi,33,9.8,Master,82.8,56.0,C++;Java,1
+58,Chantal Ngann,42,20.3,Master,83.1,36.9,Java;Spring;React;Docker,1
+59,Mohamed Fokam,40,18.8,Master,71.8,45.3,Python;Kubernetes,1
+60,Rose Foko,35,15.9,Master,79.4,42.1,ML;Java;Data Science,0
+61,Yves Ngo,37,16.5,Licence,73.4,67.4,C++;SQL;Java;Data Science,1
+62,Mohamed Ngo,43,18.0,Master,85.2,49.5,Docker;C++;Spring,1
+63,Paul Fokam,45,25.1,Licence,100.0,65.0,Docker;ML;Java,1
+64,Mohamed Tchou,44,24.8,Licence,94.1,58.5,SQL;Angular,0
+65,Chantal Nkou,48,28.7,Master,100.0,87.3,Java;Docker,1
+66,Chantal Foko,34,16.2,Master,83.1,34.3,C++;SQL;Docker;Angular,1
+67,Rose Mbarga,20,1.5,DUT,63.2,67.6,Spring;ML;Java;React,0
+68,Eric Nkou,44,24.4,Master,71.8,71.1,Kubernetes;Docker;SQL;Java,1
+69,Grace Fokam,26,4.8,Master,52.3,41.4,SQL,0
+70,Grace Tchinda,28,2.0,Master,56.5,69.1,Java;SQL;ML,0
+71,Marie Foko,43,23.3,Master,100.0,59.7,ML;Java,1
+72,Eric Nkou,20,0.0,Licence,44.1,46.8,Python;Java,0
+73,Chantal Tchou,27,6.8,Licence,41.1,38.5,React,0
+74,Eric Momo,43,18.2,Licence,93.8,39.9,Angular,0
+75,Mohamed Momo,30,5.8,Master,54.0,83.7,Docker;Spring;Python,1
+76,Marie Momo,36,18.2,Licence,72.1,50.0,Java;C++;ML;Docker,1
+77,Mohamed Foko,27,5.9,Licence,54.3,60.9,React,1
+78,Grace Tchou,54,35.0,Licence,100.0,38.9,Docker;ML;Python;React,1
+79,Fatou Nkou,54,33.1,DUT,100.0,39.1,Angular,1
+80,Rose Momo,52,31.1,Licence,85.7,65.1,Kubernetes;Java,1
+81,Paul Foko,24,5.8,Master,72.4,36.1,ML;Spring;Python;C++,1
+82,Mohamed Mbarga,47,24.5,Licence,100.0,44.2,Python;SQL;Docker,1
+83,Fatou Mbarga,26,5.3,Master,68.4,55.5,Docker,0
+84,Yves Momo,28,5.6,Licence,47.5,51.6,Angular;Docker;Python;Spring,0
+85,Amina Ngann,27,4.7,Licence,57.0,47.5,ML,0
+86,Marie Mbarga,31,9.1,Master,68.1,60.5,Python;ML;SQL;Docker,1
+87,Yves Mbarga,53,32.7,Licence,100.0,59.7,Kubernetes;Python;Java;SQL,1
+88,Yves Tchou,52,29.6,Licence,100.0,60.3,Angular,1
+89,Jean Momo,42,24.8,Licence,90.8,36.2,Angular;Data Science,0
+90,Mohamed Fokam,43,19.3,Licence,89.6,46.0,React;Docker,1
+91,Grace Mbarga,54,32.4,Licence,100.0,66.7,Spring;Java;React;SQL,1
+92,Jean Ngann,41,18.7,Licence,100.0,62.5,Spring,1
+93,Amina Mbarga,46,29.3,BTS,100.0,30.8,Angular,1
+94,Yves Foko,54,33.6,Master,100.0,59.9,React;C++,1
+95,Chantal Tchinda,20,2.1,Master,55.2,27.3,Docker,0
+96,Jean Nkou,54,28.5,Licence,100.0,50.7,React;Angular,1
+97,Amina Tchou,33,12.8,DUT,80.5,76.6,Kubernetes;C++;Angular;Docker,0
+98,Eric Ngann,22,3.7,Licence,47.1,36.7,ML;Angular;Java;Data Science,0
+99,Mohamed Foko,20,0.0,Licence,66.8,38.3,Data Science,1
+100,Paul Mbi,24,6.2,Master,70.8,65.7,Java;Data Science,1
+101,Fatou Ngann,45,22.4,Licence,89.5,28.4,SQL;Angular;Spring;Data Science,1
+102,Eric Tchinda,33,16.2,Licence,76.6,41.1,Data Science;ML,1
+103,Grace Tchou,46,31.9,Master,100.0,63.4,ML;Docker;React;C++,1
+104,Eric Fokam,28,5.9,BTS,67.4,41.1,Angular;Data Science;C++,0
+105,Eric Mbarga,34,11.7,Master,75.8,51.7,Python;C++,1
+106,Chantal Ngann,34,17.4,Master,88.5,65.4,Kubernetes;Java,1
+107,Marie Momo,45,28.7,DUT,100.0,55.9,Python;SQL;Angular;Spring,1
+108,Jean Ngo,32,9.4,Licence,81.7,53.7,SQL;Spring;React;Angular,0
+109,Marie Ngann,51,28.7,Licence,100.0,45.3,Python,1
+110,Paul Momo,51,29.2,Licence,100.0,55.2,C++;Kubernetes;React,1
+111,Samuel Tchou,23,0.0,Master,37.6,53.3,Angular,0
+112,Rose Tchinda,49,25.2,Master,100.0,61.4,C++;React;Python;Kubernetes,1
+113,Rose Mbi,42,18.0,DUT,100.0,43.0,Spring,1
+114,Paul Foko,34,10.7,Master,68.8,52.4,Data Science;C++;Java,1
+115,Yves Foko,48,26.9,Master,93.6,41.1,React,1
+116,Rose Momo,32,11.7,Licence,65.6,49.5,Docker;Python;SQL;React,1
+117,Eric Ngann,51,34.7,BTS,100.0,38.6,Kubernetes,1
+118,Grace Tchinda,26,2.0,DUT,44.6,34.4,ML;SQL,1
+119,Samuel Tchinda,41,23.0,BTS,91.6,53.6,React;SQL,1
+120,Paul Foko,47,25.4,Licence,83.9,53.0,Angular;Data Science,1
+121,Eric Nkou,21,0.0,Master,50.2,66.0,Kubernetes;ML,0
+122,Marie Nkou,25,6.0,Licence,72.8,44.0,Angular,0
+123,Amina Momo,47,22.6,Licence,84.3,55.7,Python;React;SQL,1
+124,Chantal Foko,47,27.1,Licence,100.0,57.7,Docker,1
+125,Amina Ngo,39,18.5,Master,93.1,61.2,Spring,0
+126,Paul Nkou,49,29.5,Master,100.0,43.4,Data Science;Spring;Java;Python,1
+127,Eric Tchou,30,9.9,Licence,61.9,52.1,Angular;Java,0
+128,Jean Foko,47,33.4,Licence,100.0,55.1,ML;SQL;Docker;React,1
+129,Fatou Fokam,44,21.1,Master,79.1,55.1,Java;C++,1
+130,Eric Momo,52,29.4,Licence,100.0,20.8,SQL;Angular;Java,1
+131,Yves Mbi,20,0.0,Licence,52.1,52.2,Angular;Data Science,0
+132,Samuel Mbarga,46,23.3,Master,100.0,86.0,React;ML,1
+133,Mohamed Ngann,32,9.1,Doctorat,54.1,45.0,Angular;SQL;C++;Data Science,1
+134,Marie Fokam,22,4.6,Licence,48.5,39.8,Java,0
+135,Eric Fokam,25,8.3,Licence,73.8,55.2,Kubernetes,1
+136,Jean Nkou,27,4.3,Licence,47.2,54.4,Java;Angular,1
+137,Rose Foko,46,22.5,DUT,100.0,66.7,C++;Spring;Kubernetes;Docker,0
+138,Chantal Nkou,28,8.4,Master,50.4,37.4,C++;Kubernetes;Data Science;Angular,1
+139,Eric Tchou,52,29.3,Master,100.0,65.2,C++,0
+140,Fatou Ngann,43,23.9,Licence,83.0,58.3,ML;C++,1
+141,Amina Foko,34,13.6,Master,83.8,53.0,C++,0
+142,Chantal Nkou,51,25.5,Licence,100.0,54.7,React,1
+143,Paul Mbi,51,34.6,Master,100.0,69.4,React,0
+144,Amina Nkou,43,27.4,DUT,100.0,62.2,React;Python;Docker,1
+145,Paul Mbarga,31,8.2,Master,69.5,39.0,React;Python,0
+146,Rose Tchou,21,0.0,BTS,43.5,61.5,React;Kubernetes;ML,0
+147,Fatou Foko,22,1.9,Master,41.7,54.1,SQL;React,0
+148,Jean Tchou,36,16.0,Licence,58.4,51.0,Java;Spring;Docker;Data Science,1
+149,Samuel Mbi,21,2.0,DUT,58.2,51.0,SQL;Data Science,0
+150,Grace Ngo,21,6.0,Licence,43.2,47.9,Kubernetes;Angular,1
+151,Yves Momo,47,25.5,Master,100.0,71.7,React;Python,1
+152,Marie Tchinda,42,18.6,Licence,84.0,48.8,C++,1
+153,Yves Ngann,51,25.9,Licence,100.0,34.3,React;Spring;Data Science,1
+154,Amina Momo,52,28.8,Master,100.0,49.5,React;SQL,1
+155,Rose Tchinda,20,0.0,Licence,46.0,52.5,Java,0
+156,Marie Tchou,38,22.4,Master,100.0,72.2,SQL;Kubernetes,1
+157,Grace Ngo,21,0.0,Master,54.0,63.4,Java;Docker;Spring;SQL,1
+158,Eric Ngo,45,24.7,Licence,100.0,38.1,Docker;SQL;Kubernetes,0
+159,Yves Foko,51,30.0,Licence,100.0,84.8,Java;React,0
+160,Samuel Mbarga,25,7.6,Master,46.8,58.7,Docker;Kubernetes;Python,1
+161,Rose Momo,51,35.0,Licence,100.0,67.9,C++;Spring;Data Science;Angular,1
+162,Paul Tchou,23,0.4,Master,58.1,52.9,ML;React;Docker,0
+163,Yves Nkou,30,7.5,Master,52.8,62.5,Data Science;Docker;Spring,0
+164,Samuel Tchinda,36,18.1,BTS,83.3,61.8,ML;Kubernetes,1
+165,Rose Ngann,43,24.0,Master,97.5,72.1,Spring;Kubernetes;ML,1
+166,Marie Mbarga,24,8.5,Master,65.4,69.8,Data Science;SQL;Angular;Spring,0
+167,Fatou Mbarga,53,33.8,Master,100.0,67.2,Angular,1
+168,Samuel Momo,25,2.9,Licence,73.0,45.6,Docker;Python;Data Science;ML,0
+169,Fatou Tchinda,41,21.8,Licence,100.0,42.0,Python;Java;Docker,1
+170,Eric Tchinda,30,12.3,Doctorat,58.9,54.7,React;SQL;Python;Docker,0
+171,Jean Tchinda,35,16.5,Master,90.5,68.1,Spring;ML,1
+172,Marie Fokam,52,32.5,Doctorat,100.0,46.9,SQL,1
+173,Fatou Tchou,28,10.2,BTS,75.0,64.9,Spring;Data Science;Python;Docker,1
+174,Amina Mbarga,25,7.5,BTS,78.1,70.3,Java;Data Science;Python;Docker,0
+175,Grace Mbarga,35,18.1,DUT,100.0,37.2,Docker;Python;ML,1
+176,Amina Tchinda,48,28.9,Master,100.0,43.3,Kubernetes;Angular;SQL,0
+177,Marie Foko,22,0.5,Licence,54.0,48.0,ML;Data Science;Docker,0
+178,Fatou Nkou,39,18.4,Master,99.3,59.3,React,1
+179,Eric Nkou,38,20.6,Licence,92.9,42.7,Angular,0
+180,Grace Ngann,45,21.5,Master,93.3,73.9,Python;Spring,1
+181,Jean Ngann,22,2.1,Master,50.0,60.9,Kubernetes,0
+182,Paul Fokam,38,15.8,Master,100.0,55.6,React,1
+183,Grace Momo,39,18.1,Licence,76.4,29.9,Docker;Angular;Data Science;Python,1
+184,Yves Ngo,51,33.8,Licence,100.0,31.6,React,1
+185,Yves Mbi,26,5.6,Master,67.2,58.9,Data Science,0
+186,Fatou Tchinda,52,31.1,Licence,95.4,20.1,Data Science;Kubernetes;Docker;Angular,1
+187,Eric Tchinda,37,11.9,BTS,78.2,64.2,Docker;Data Science;React;Spring,1
+188,Amina Mbarga,20,1.2,Licence,27.2,47.8,SQL;ML,1
+189,Samuel Ngo,30,10.9,Licence,79.3,95.4,Angular;Java;Spring;React,0
+190,Marie Tchinda,47,32.5,Licence,100.0,82.3,React;Kubernetes;SQL;ML,1
+191,Chantal Ngo,44,22.1,Master,87.1,52.5,C++,1
+192,Rose Tchou,42,21.7,Master,94.9,53.5,Angular;Data Science;C++,1
+193,Chantal Mbarga,50,29.7,Licence,100.0,63.9,SQL;Spring;Docker;Kubernetes,1
+194,Mohamed Tchinda,49,32.7,Licence,100.0,73.8,Angular;SQL;Kubernetes;C++,1
+195,Chantal Momo,54,32.7,Master,100.0,32.1,React,1
+196,Samuel Mbarga,26,5.8,Licence,79.4,25.0,React;SQL;Kubernetes;Java,0
+197,Grace Tchou,35,15.8,Master,100.0,46.3,SQL;Angular;Spring,1
+198,Rose Foko,45,24.6,Master,99.2,63.2,Angular;Spring,1
+199,Fatou Mbi,21,0.0,Licence,62.1,57.0,React,1
+200,Rose Mbarga,20,0.0,Licence,66.1,65.0,Python;C++;Data Science,0
+201,Grace Mbarga,31,13.2,DUT,67.5,33.2,Docker;Data Science,0
+202,Marie Tchinda,24,0.0,Master,44.2,22.6,Java;React,0
+203,Paul Tchou,51,30.4,Master,100.0,67.0,ML;Java,1
+204,Yves Mbi,28,4.9,Licence,80.0,38.4,ML;SQL;React;Docker,0
+205,Yves Tchinda,54,35.0,Master,100.0,26.7,Kubernetes;React;ML,0
+206,Amina Mbi,38,12.4,Licence,64.2,52.0,ML;Docker,1
+207,Marie Nkou,35,12.3,Master,98.4,66.1,Java;Data Science;ML,1
+208,Chantal Fokam,22,2.1,DUT,47.8,48.3,Python;Kubernetes;Spring,1
+209,Samuel Tchou,39,22.7,Licence,91.4,43.6,React;SQL;C++,1
+210,Chantal Foko,43,21.8,Licence,97.7,47.8,Docker,1
+211,Fatou Mbarga,52,29.3,Licence,100.0,44.8,C++;SQL;ML,0
+212,Marie Ngann,43,27.6,Licence,100.0,31.1,C++;Kubernetes,1
+213,Samuel Ngann,30,4.7,Licence,64.4,40.0,Angular;Java,0
+214,Rose Mbarga,27,0.0,Licence,55.6,57.3,Data Science;Python,0
+215,Grace Ngo,39,19.3,Doctorat,89.1,54.5,ML;SQL,1
+216,Amina Mbi,54,31.5,Master,100.0,57.4,Data Science;Python;Spring,1
+217,Samuel Tchinda,44,19.9,Licence,59.4,36.1,SQL;C++;Java;ML,0
+218,Amina Mbi,54,35.0,DUT,100.0,47.5,Kubernetes,1
+219,Rose Foko,44,23.7,Licence,100.0,19.5,SQL;Angular;Python,0
+220,Paul Tchinda,48,25.3,DUT,86.8,52.5,React,1
+221,Eric Mbi,37,12.2,Licence,79.0,70.0,SQL,1
+222,Yves Ngo,37,18.6,BTS,84.7,29.4,ML;React;Kubernetes,0
+223,Samuel Mbarga,21,2.0,Master,75.1,46.8,SQL;ML;Data Science,0
+224,Samuel Fokam,54,32.7,BTS,100.0,54.6,Spring;ML;Kubernetes;Docker,1
+225,Mohamed Tchou,35,19.5,DUT,83.4,67.5,Java;Docker;Data Science;Spring,0
+226,Marie Foko,52,27.8,Licence,100.0,43.7,Kubernetes;Java;Angular,1
+227,Chantal Fokam,23,0.0,DUT,49.1,40.3,Python;ML;Docker,0
+228,Grace Momo,52,28.9,Licence,100.0,22.4,Docker,0
+229,Marie Mbi,33,11.9,Licence,76.1,51.4,Kubernetes,1
+230,Paul Mbi,40,19.7,Licence,80.3,78.6,Spring;Python,1
+231,Samuel Ngo,39,17.3,Master,71.0,58.9,Docker;C++;Spring;Java,1
+232,Jean Mbi,27,7.1,Licence,71.7,49.7,Kubernetes;React;Data Science;Python,1
+233,Paul Nkou,26,1.2,Master,60.0,59.5,Spring,0
+234,Eric Tchou,22,5.3,Master,50.9,54.8,ML;Docker;Spring,0
+235,Samuel Tchinda,36,14.8,Doctorat,90.3,38.6,Java,1
+236,Samuel Tchinda,52,34.4,BTS,100.0,61.5,Kubernetes;SQL;Data Science;React,1
+237,Jean Tchinda,31,11.0,Master,75.0,58.2,Docker;React;C++,0
+238,Samuel Foko,41,21.4,Licence,100.0,50.2,React;Python;Java;Docker,0
+239,Samuel Fokam,41,21.7,Licence,93.0,36.3,Angular;C++;React,1
+240,Fatou Mbi,49,29.3,Licence,100.0,68.2,React;Python;Spring,0
+241,Marie Tchinda,27,7.9,Licence,59.6,59.3,C++,1
+242,Samuel Ngo,46,29.0,Licence,100.0,42.3,Python;Java;Kubernetes,0
+243,Mohamed Momo,46,25.6,Licence,98.7,64.0,Kubernetes;Python,0
+244,Marie Nkou,53,34.1,DUT,100.0,43.0,Data Science;Python;Kubernetes,1
+245,Eric Mbi,40,18.7,Master,85.3,44.1,Python;Data Science;Kubernetes;Angular,0
+246,Fatou Ngo,49,32.3,Licence,96.0,39.4,React;Docker,1
+247,Jean Tchou,52,29.0,Master,100.0,30.2,C++;Spring;React;ML,1
+248,Mohamed Ngo,47,31.4,Licence,100.0,56.6,Spring,1
+249,Fatou Ngann,52,30.9,Master,100.0,29.4,SQL;ML;React;Spring,1
+250,Eric Mbarga,24,0.0,Master,47.1,37.8,React;SQL;Data Science,0
+251,Fatou Tchou,38,17.4,Master,84.1,25.9,C++;SQL,1
+252,Jean Tchinda,23,0.0,Master,55.8,53.8,SQL;Angular;Java,0
+253,Jean Fokam,54,35.0,DUT,100.0,47.9,Spring,1
+254,Mohamed Mbi,36,13.0,BTS,68.2,45.4,Spring;Data Science,1
+255,Amina Mbi,47,24.7,Master,85.0,40.4,React;SQL;C++,1
+256,Amina Mbi,49,22.3,Master,82.1,38.6,Data Science,1
+257,Grace Ngann,48,25.6,Master,95.4,61.5,C++,1
+258,Yves Tchou,25,0.0,Licence,45.8,42.3,Docker,1
+259,Fatou Ngo,54,28.2,Licence,97.2,54.4,SQL;ML;Angular,1
+260,Amina Ngo,43,24.3,Licence,83.0,37.6,Data Science;Angular;C++;Docker,0
+261,Rose Fokam,48,29.4,Master,100.0,57.5,Python;Docker;Data Science;React,1
+262,Samuel Fokam,50,30.3,Master,100.0,73.2,Docker,1
+263,Mohamed Ngo,54,30.1,Licence,100.0,58.2,Docker;Kubernetes;React,1
+264,Rose Nkou,52,30.9,DUT,100.0,44.2,ML,0
+265,Marie Fokam,40,19.0,DUT,83.0,53.6,Spring;Angular;ML,1
+266,Yves Ngo,51,26.5,Master,91.9,51.6,Kubernetes,1
+267,Amina Ngo,42,25.5,Master,100.0,55.1,Python;Docker;React,1
+268,Eric Ngann,52,33.6,BTS,100.0,45.4,Data Science;React,1
+269,Jean Ngann,22,0.3,Licence,57.5,47.7,ML,0
+270,Paul Tchinda,37,16.1,Doctorat,60.8,53.0,Spring;SQL,0
+271,Samuel Tchinda,44,23.6,Licence,92.9,36.1,SQL,1
+272,Samuel Mbarga,50,22.9,Doctorat,99.4,35.8,Python;ML;SQL,1
+273,Rose Mbi,22,0.3,Licence,52.8,30.6,SQL,0
+274,Marie Ngo,43,20.0,BTS,100.0,27.6,Docker;Data Science,0
+275,Amina Fokam,51,27.0,DUT,100.0,33.0,React;SQL,0
+276,Fatou Foko,41,19.2,Licence,76.4,52.2,Python,0
+277,Marie Nkou,42,26.4,Master,100.0,42.5,Kubernetes;SQL,1
+278,Jean Mbi,21,1.9,DUT,32.5,57.2,React;Data Science;Kubernetes,0
+279,Mohamed Momo,46,23.3,Master,95.6,55.5,Python,1
+280,Chantal Mbi,21,1.7,BTS,43.4,22.4,Java;Data Science,0
+281,Grace Fokam,45,28.2,Master,100.0,64.2,Spring;Data Science;SQL;Java,1
+282,Eric Fokam,36,17.8,Licence,79.0,61.4,Data Science;ML;Docker;Spring,0
+283,Fatou Tchinda,52,31.2,Licence,100.0,36.1,Angular;Python;Data Science,0
+284,Fatou Ngo,28,5.1,Licence,52.6,55.9,Java;ML,0
+285,Fatou Momo,48,29.1,Doctorat,100.0,38.0,C++;ML;Spring;React,0
+286,Chantal Tchinda,45,25.2,Licence,96.5,51.4,React;Angular,1
+287,Fatou Mbi,54,35.0,Master,100.0,37.3,Java;Docker,1
+288,Paul Tchou,44,24.9,Master,100.0,29.9,Kubernetes,1
+289,Eric Tchinda,43,25.1,Master,100.0,49.6,Spring;C++,1
+290,Fatou Tchinda,32,9.4,BTS,73.2,48.3,Kubernetes,1
+291,Rose Ngann,26,9.0,DUT,72.7,44.4,Python;C++;Spring,0
+292,Grace Nkou,39,18.6,Master,64.1,38.4,React;Angular;Python;Docker,0
+293,Rose Fokam,20,5.2,BTS,57.1,44.4,Spring;SQL;React,0
+294,Fatou Ngann,27,3.9,Doctorat,67.9,53.8,Data Science;Kubernetes;React;Java,0
+295,Yves Mbi,35,19.2,Master,87.8,54.4,React;Data Science;ML,0
+296,Paul Fokam,33,12.6,DUT,58.3,52.6,C++;Spring;React,1
+297,Yves Mbarga,31,8.0,Licence,65.4,40.6,SQL;Kubernetes;Angular,1
+298,Paul Ngo,42,19.5,Licence,100.0,66.4,C++;Spring;Data Science,0
+299,Rose Nkou,34,12.0,BTS,89.0,33.5,Spring,0
+300,Jean Tchou,47,27.3,Master,100.0,61.8,Kubernetes,1
+301,Chantal Tchinda,53,33.6,BTS,100.0,66.5,ML;Angular;Spring;Java,1
+302,Rose Mbi,21,0.0,BTS,45.6,56.7,Angular;React;SQL;Kubernetes,1
+303,Mohamed Nkou,51,29.9,Licence,89.4,47.2,C++,1
+304,Yves Foko,42,27.4,BTS,93.7,42.6,C++,0
+305,Chantal Mbarga,41,25.2,Master,100.0,69.5,C++,1
+306,Grace Tchou,44,24.3,Master,95.3,35.1,Python;Data Science;C++,0
+307,Fatou Nkou,41,20.1,Master,87.3,41.4,Python;React;Docker;C++,0
+308,Paul Ngo,41,20.4,DUT,87.2,44.4,Python;Java;Kubernetes;Angular,1
+309,Jean Foko,25,5.8,Licence,84.4,67.3,React;Spring;Docker,1
+310,Fatou Tchou,34,9.9,Master,89.3,60.3,Angular;ML;Python,0
+311,Jean Nkou,52,30.2,Master,100.0,41.4,Data Science,1
+312,Mohamed Tchinda,27,1.0,Master,50.1,50.7,C++,1
+313,Jean Mbarga,24,4.2,Master,61.9,46.4,Java,0
+314,Rose Mbarga,23,3.9,Licence,39.6,40.1,Angular;Java;ML,0
+315,Eric Foko,25,2.6,Licence,72.9,63.7,Python;SQL,1
+316,Fatou Momo,51,34.7,Licence,100.0,30.8,Spring,0
+317,Yves Mbi,49,24.3,BTS,100.0,72.5,Spring;SQL,1
+318,Grace Nkou,54,28.6,Licence,94.0,61.6,React;Docker,1
+319,Amina Momo,35,14.7,Licence,72.3,65.3,Java,0
+320,Grace Foko,32,14.1,DUT,68.2,43.5,Docker,1
+321,Marie Tchou,49,33.1,Licence,100.0,47.9,Angular;SQL,1
+322,Paul Ngann,38,15.6,DUT,74.7,29.9,Kubernetes;Data Science;SQL,1
+323,Fatou Tchinda,36,18.2,Master,79.8,47.7,SQL;Angular,1
+324,Mohamed Foko,38,16.9,BTS,93.8,56.9,React;ML,1
+325,Samuel Ngann,47,25.5,Licence,87.7,68.1,Data Science,1
+326,Mohamed Fokam,45,26.7,Licence,100.0,34.5,Data Science,1
+327,Grace Mbarga,45,26.0,Master,100.0,49.9,ML,1
+328,Fatou Ngo,42,16.3,BTS,76.4,47.9,Angular,0
+329,Rose Mbarga,28,11.4,Master,64.2,35.5,Data Science,0
+330,Eric Mbi,31,14.1,Licence,75.4,58.3,ML;React;Docker;C++,1
+331,Yves Ngann,20,0.0,Doctorat,64.2,39.9,C++,0
+332,Fatou Ngo,20,0.2,Doctorat,52.7,47.3,Data Science;Java;Angular,0
+333,Chantal Mbi,53,33.5,Master,100.0,48.7,Kubernetes,1
+334,Marie Fokam,51,30.8,Doctorat,100.0,38.9,SQL;Docker;Java,1
+335,Chantal Fokam,44,21.3,BTS,79.4,49.9,React;Java,1
+336,Fatou Ngo,20,0.0,Master,58.2,52.0,Angular;Java;Python;Docker,0
+337,Samuel Mbarga,35,13.9,Licence,82.7,44.8,SQL,1
+338,Chantal Ngo,24,6.5,Master,59.3,44.8,Angular;Data Science,1
+339,Mohamed Fokam,41,21.6,Licence,83.1,54.5,Kubernetes;ML;Data Science;React,1
+340,Eric Foko,48,25.9,Master,91.2,78.2,Docker;React,1
+341,Samuel Nkou,22,3.3,Master,63.0,57.0,Docker,0
+342,Grace Foko,31,1.5,Licence,67.7,63.9,Spring;C++;Kubernetes,0
+343,Grace Momo,45,27.4,Licence,97.2,30.5,Java;React;Docker,1
+344,Mohamed Ngann,35,8.8,Licence,73.1,52.2,Java;Angular;ML;React,1
+345,Marie Nkou,41,18.9,BTS,62.8,34.6,Spring;Kubernetes;C++;Data Science,1
+346,Eric Fokam,48,23.6,DUT,90.2,29.3,Spring;Kubernetes;Python,1
+347,Chantal Momo,33,8.1,Licence,65.8,39.6,Python;ML;Angular;Kubernetes,1
+348,Yves Ngann,47,29.5,DUT,98.1,66.7,Python;Spring;React,1
+349,Amina Fokam,24,1.6,Master,42.0,68.3,SQL;C++,1
+350,Marie Mbi,49,29.0,Licence,100.0,53.4,Spring;SQL;Kubernetes;Data Science,1
+351,Paul Momo,24,2.9,Licence,59.3,28.5,Docker;Angular;Spring;C++,0
+352,Grace Nkou,31,11.4,Master,70.6,52.3,Kubernetes,0
+353,Jean Momo,35,14.2,Doctorat,51.5,54.2,Docker;ML;React;Data Science,1
+354,Paul Momo,45,20.2,Master,65.0,57.5,Spring;Kubernetes,1
+355,Paul Nkou,45,27.0,Licence,96.7,24.2,SQL;Python;Kubernetes,1
+356,Amina Ngann,40,17.5,Licence,90.5,37.5,Data Science;Kubernetes,1
+357,Eric Mbarga,52,26.3,Master,69.6,54.1,ML;Java;Spring;Kubernetes,1
+358,Chantal Momo,49,26.7,Licence,97.4,57.5,React;Angular;SQL;Kubernetes,1
+359,Chantal Ngann,42,25.5,Licence,94.7,19.3,Data Science;C++;ML;Java,1
+360,Yves Foko,29,10.6,Licence,87.9,47.7,SQL;ML;C++;Spring,1
+361,Chantal Mbarga,24,2.0,BTS,49.4,52.0,React;Spring;Kubernetes;Docker,0
+362,Eric Fokam,53,31.0,DUT,100.0,61.9,React;SQL;Java,1
+363,Grace Nkou,50,28.0,Master,100.0,64.7,Spring,1
+364,Yves Foko,29,14.2,DUT,52.8,58.2,Python,1
+365,Paul Mbarga,38,18.1,Licence,95.4,38.8,Java;Spring;ML,0
+366,Marie Tchou,51,31.3,Master,100.0,28.3,Data Science;Java;Angular,1
+367,Eric Tchou,20,2.1,Licence,60.3,44.5,Spring;Python,0
+368,Samuel Foko,24,3.7,Master,100.0,69.0,Data Science;SQL;Java;Python,0
+369,Amina Mbarga,23,1.2,DUT,27.4,69.5,Docker;Angular,0
+370,Eric Mbi,35,13.4,Master,97.5,64.9,Kubernetes;Python;SQL,1
+371,Fatou Momo,43,21.8,Licence,90.2,56.0,Kubernetes;React;Docker;ML,1
+372,Grace Momo,35,13.9,Master,81.2,60.3,ML,1
+373,Mohamed Fokam,21,2.2,Licence,53.9,42.2,Kubernetes;Python,0
+374,Samuel Ngann,47,26.2,BTS,97.3,48.2,Kubernetes,1
+375,Jean Tchinda,51,32.2,Master,100.0,78.4,Angular;React;C++;Data Science,1
+376,Amina Ngann,46,24.8,Master,100.0,41.8,Python;Java,1
+377,Yves Momo,39,18.2,Master,68.2,77.6,Data Science;Docker;Python;Java,0
+378,Grace Tchou,43,16.0,Master,91.0,50.5,Java;C++;SQL,1
+379,Rose Foko,31,12.7,Licence,70.4,68.6,Data Science;Angular,1
+380,Chantal Mbi,54,34.0,Master,100.0,35.3,Data Science;Java;Python,1
+381,Fatou Ngann,52,34.0,Licence,100.0,58.2,Python;React,0
+382,Yves Mbi,52,22.3,Master,100.0,44.7,Python;C++;Docker,0
+383,Fatou Mbarga,31,16.3,BTS,76.2,30.2,SQL;Docker;React;Kubernetes,0
+384,Samuel Momo,22,0.6,BTS,55.5,53.1,C++;Spring,0
+385,Paul Tchinda,20,2.3,Master,45.8,69.1,Spring;Python;Docker;Data Science,1
+386,Samuel Foko,52,27.9,Master,100.0,43.2,Spring;Java;C++,1
+387,Amina Tchinda,29,9.8,Licence,77.8,29.0,C++;Data Science;Java;Docker,1
+388,Chantal Mbarga,48,23.8,Doctorat,100.0,48.7,Python,1
+389,Paul Tchou,32,9.1,Licence,66.1,48.8,SQL;Kubernetes;Python;React,0
+390,Paul Ngo,31,15.7,Master,89.4,62.7,C++,1
+391,Paul Ngo,50,28.4,Licence,100.0,63.3,C++;Python;Spring,1
+392,Mohamed Mbi,21,0.7,Licence,67.0,49.2,Spring;C++,0
+393,Mohamed Mbarga,54,35.0,Master,100.0,81.0,Docker;Java;ML;Kubernetes,1
+394,Eric Ngo,42,22.5,Licence,100.0,53.1,C++,0
+395,Fatou Mbarga,36,15.5,Master,78.7,50.2,Python,0
+396,Rose Mbi,45,25.1,Licence,99.4,27.4,SQL,1
+397,Rose Mbi,27,13.2,Licence,77.5,46.3,Python;Angular,0
+398,Jean Tchinda,48,26.8,Master,100.0,50.3,Data Science,0
+399,Samuel Momo,45,24.6,Licence,97.8,63.4,Python;Data Science;SQL,1
+400,Chantal Nkou,29,11.2,Licence,75.0,56.5,React;Python;Docker,1
+401,Grace Foko,45,27.3,Master,100.0,38.5,ML;Docker,0
+402,Samuel Mbarga,53,35.0,Licence,100.0,52.4,ML,1
+403,Marie Foko,26,6.9,BTS,74.2,59.4,Data Science,1
+404,Fatou Tchou,23,0.0,Licence,44.5,71.4,Data Science;Python;Spring;SQL,1
+405,Mohamed Foko,30,13.9,Licence,67.1,62.4,Angular,1
+406,Jean Foko,48,23.6,Master,100.0,65.7,Data Science;Spring;Kubernetes;SQL,0
+407,Grace Nkou,44,23.9,Licence,100.0,50.8,Python;Kubernetes;Docker;ML,1
+408,Rose Momo,40,16.7,Licence,100.0,55.4,React;Docker;SQL,1
+409,Mohamed Ngo,29,7.8,Licence,58.4,67.5,Spring;Docker;SQL,1
+410,Eric Ngann,28,8.0,Licence,63.2,31.3,Python;Data Science;React;Java,1
+411,Mohamed Fokam,43,23.0,BTS,76.3,45.1,Data Science;React,1
+412,Yves Nkou,54,34.3,Licence,100.0,39.2,Kubernetes;Docker;C++,1
+413,Rose Ngo,54,35.0,Doctorat,100.0,55.3,Java;ML,1
+414,Marie Mbarga,37,17.4,BTS,79.2,67.2,Java;Kubernetes,1
+415,Marie Mbi,51,29.3,Master,100.0,46.6,Angular;React;Java,1
+416,Amina Mbarga,43,24.9,DUT,97.5,16.5,Python;Java;Data Science,1
+417,Samuel Tchinda,42,24.6,Licence,100.0,44.2,C++;Data Science,1
+418,Chantal Mbarga,51,26.3,DUT,88.8,62.8,Docker,1
+419,Grace Tchinda,31,11.8,Licence,74.6,57.5,Spring;SQL;Angular;Python,1
+420,Mohamed Mbi,32,13.1,Master,40.3,61.0,ML;SQL;Java,0
+421,Jean Nkou,42,20.1,Master,88.0,51.1,ML;Python,1
+422,Amina Mbi,44,27.1,Licence,84.6,32.1,C++,1
+423,Marie Tchou,54,32.5,Master,100.0,62.2,Java,0
+424,Samuel Ngann,49,28.4,Master,100.0,43.3,Data Science;Angular;SQL;Java,1
+425,Mohamed Foko,36,14.5,Licence,84.6,80.6,Spring,1
+426,Fatou Tchou,39,18.0,Licence,100.0,58.0,React;Data Science;Kubernetes;Spring,1
+427,Paul Ngann,44,19.7,Master,78.0,46.9,Kubernetes;Docker,0
+428,Grace Fokam,41,15.7,Master,100.0,46.4,Spring;SQL;Kubernetes;Python,1
+429,Chantal Ngann,32,15.8,DUT,92.8,48.7,SQL;Java;Python,1
+430,Yves Ngo,38,14.5,Doctorat,76.2,46.6,Docker,0
+431,Mohamed Tchinda,31,7.0,DUT,77.6,65.6,React;Kubernetes;Spring;Java,1
+432,Grace Nkou,38,10.5,Master,57.7,57.6,SQL;React,1
+433,Eric Mbarga,31,8.1,Licence,56.3,39.8,ML,1
+434,Amina Ngo,28,3.0,Licence,48.7,76.5,React,0
+435,Yves Tchinda,26,9.9,Doctorat,63.5,50.7,Java;React;C++;Data Science,1
+436,Eric Mbarga,47,29.0,Master,95.3,65.8,C++,1
+437,Chantal Mbarga,33,9.9,Licence,84.5,41.5,SQL;Python;Spring,0
+438,Mohamed Ngo,50,35.0,Licence,100.0,55.1,React;Java;ML;Docker,1
+439,Rose Tchou,38,19.9,DUT,94.0,54.4,Spring;SQL;Python;Docker,1
+440,Jean Mbi,35,13.0,Master,69.2,28.5,Kubernetes;Data Science;C++;Python,1
+441,Fatou Ngann,24,0.0,Master,28.2,83.2,Java;Python,1
+442,Chantal Mbarga,54,35.0,Master,100.0,73.1,Kubernetes,1
+443,Samuel Fokam,31,5.8,Licence,38.7,44.4,SQL;Spring,1
+444,Fatou Nkou,44,18.1,Licence,85.4,34.6,ML;SQL;Python;Angular,1
+445,Rose Tchou,40,22.1,Licence,77.8,54.9,Python;C++;Angular,1
+446,Eric Mbi,42,28.3,Licence,100.0,51.2,Angular;Java;Kubernetes;Docker,1
+447,Grace Foko,35,18.2,Doctorat,97.3,55.0,SQL;Java;Angular;Spring,1
+448,Eric Foko,33,13.7,Master,78.7,57.7,React,1
+449,Paul Tchou,50,30.8,BTS,100.0,57.1,Angular;Python;C++,1
+450,Grace Nkou,24,5.6,BTS,51.0,70.3,SQL;Docker;Java,1
+451,Grace Tchinda,54,35.0,Licence,100.0,58.0,Docker;Data Science;Kubernetes;React,1
+452,Grace Ngo,42,21.8,Master,96.0,40.3,ML,1
+453,Rose Ngann,48,27.3,Master,100.0,74.1,C++,1
+454,Amina Nkou,30,8.8,BTS,82.9,73.0,Python,1
+455,Chantal Foko,37,13.7,Licence,86.2,94.1,SQL;Data Science;C++;Python,0
+456,Fatou Momo,31,9.2,Master,71.9,39.3,Python;Docker;SQL;ML,0
+457,Rose Foko,28,1.9,Master,33.9,58.4,Docker,0
+458,Mohamed Ngo,29,7.7,Licence,53.9,20.9,React;SQL;Python,1
+459,Jean Ngann,36,12.0,Licence,72.5,57.7,Kubernetes,0
+460,Paul Mbi,26,1.7,Master,54.5,47.3,Python;Spring;SQL;Data Science,1
+461,Samuel Mbarga,32,11.5,Master,59.4,81.9,Spring,0
+462,Eric Nkou,28,11.2,Licence,100.0,39.2,Kubernetes;Angular;React,1
+463,Amina Momo,46,27.8,Master,100.0,31.4,C++;Java;SQL;Angular,1
+464,Marie Mbi,21,0.0,Licence,57.2,43.4,SQL,0
+465,Marie Foko,24,0.0,Master,50.9,27.3,Data Science;C++;Docker;SQL,0
+466,Jean Nkou,48,29.8,Licence,100.0,60.5,Java,1
+467,Eric Ngo,38,14.1,BTS,66.8,21.1,C++;ML;Spring,0
+468,Paul Ngann,27,5.3,Licence,61.5,50.4,ML;Java;Data Science;SQL,1
+469,Rose Ngo,20,0.7,Licence,54.5,20.9,C++;Data Science;Docker,0
+470,Marie Tchinda,41,17.1,Licence,69.3,45.5,Spring;Kubernetes;Data Science,0
+471,Marie Mbi,36,15.3,Licence,84.6,73.0,Data Science,1
+472,Samuel Tchinda,26,1.0,Master,50.1,60.0,Python;SQL,0
+473,Fatou Fokam,44,21.2,Licence,69.5,37.9,ML;Java;Kubernetes;Angular,1
+474,Marie Fokam,23,3.0,BTS,45.7,49.6,SQL;ML,0
+475,Samuel Ngann,25,0.0,Licence,45.0,50.3,Data Science;ML;Angular,1
+476,Samuel Mbarga,50,30.3,Licence,100.0,56.6,C++;Spring;ML,1
+477,Mohamed Ngann,38,16.9,Licence,90.5,30.9,Angular;Python;SQL,0
+478,Marie Foko,46,26.7,Licence,87.4,58.3,ML;React;C++;Spring,0
+479,Rose Ngo,29,8.7,Licence,73.2,12.1,Docker;C++,1
+480,Chantal Mbi,45,28.1,Master,87.6,46.2,Kubernetes;Angular,1
+481,Marie Mbi,38,17.4,Master,97.8,48.2,Docker;SQL,1
+482,Jean Mbarga,22,0.0,Master,44.3,63.9,Docker;Spring;React,0
+483,Marie Mbarga,32,11.4,Master,71.7,55.3,C++,1
+484,Grace Mbarga,47,27.6,Master,100.0,35.3,Python;Spring;React,0
+485,Fatou Ngann,39,18.1,Licence,70.8,36.2,C++;Angular,0
+486,Samuel Momo,47,26.1,Master,85.4,57.8,SQL,1
+487,Mohamed Mbarga,27,3.9,DUT,50.8,48.9,C++;Angular,0
+488,Jean Foko,20,0.0,Master,62.5,46.9,Data Science;ML;Docker,1
+489,Marie Nkou,22,0.0,Master,31.8,48.3,Kubernetes;Data Science;ML,0
+490,Amina Momo,32,16.2,Licence,48.4,59.7,Java;Docker;Python;Spring,1
+491,Grace Foko,47,22.3,Doctorat,89.2,42.8,Data Science;Python;C++,1
+492,Jean Foko,44,20.9,Doctorat,98.4,48.8,Java;Kubernetes;React;Angular,1
+493,Mohamed Tchinda,52,28.8,Master,100.0,85.4,Angular;Python;Java,1
+494,Samuel Nkou,25,6.7,DUT,57.8,30.1,C++;Java;Kubernetes;ML,0
+495,Amina Tchinda,51,29.1,Licence,100.0,24.1,Data Science;Python;Kubernetes;Java,0
+496,Fatou Momo,40,22.7,Licence,100.0,61.0,Python;Angular;C++,0
+497,Chantal Mbarga,35,12.0,Doctorat,51.6,40.5,Python;Angular;Docker,0
+498,Grace Tchou,40,19.8,BTS,84.9,45.5,SQL;ML;Java;Spring,0
+499,Amina Tchinda,30,6.5,Licence,65.3,39.1,SQL;Data Science;Python;ML,0
+500,Fatou Ngann,54,35.0,Licence,100.0,46.4,SQL;Java;Python;Kubernetes,1
+501,Marie Momo,38,13.4,Licence,70.7,72.4,SQL;Data Science;Spring;Kubernetes,0
+502,Paul Mbi,39,18.9,Licence,88.2,61.2,Kubernetes;Python,1
+503,Fatou Fokam,37,17.9,Doctorat,55.9,62.1,C++;ML;Kubernetes;Angular,1
+504,Grace Fokam,33,13.2,Master,68.5,35.2,Kubernetes;Data Science;React;Docker,0
+505,Amina Ngann,34,12.4,Licence,80.2,33.9,Data Science;Java;Kubernetes;Docker,1
+506,Yves Mbarga,50,28.6,Licence,95.4,10.3,Kubernetes;Angular,1
+507,Fatou Mbi,20,0.0,Licence,50.7,38.7,SQL;Java;Docker;React,0
+508,Paul Ngann,22,0.6,Licence,56.6,63.4,React;Spring;Java;Angular,0
+509,Amina Fokam,35,16.9,Master,79.7,62.2,Data Science,0
+510,Samuel Nkou,42,27.6,DUT,100.0,46.9,Data Science,1
+511,Amina Momo,30,7.3,BTS,53.0,49.7,Java;Docker,0
+512,Eric Mbarga,31,5.9,Licence,59.3,40.4,Java,0
+513,Paul Mbarga,29,7.7,BTS,72.7,52.9,C++;Docker;React;Kubernetes,0
+514,Paul Nkou,51,35.0,Doctorat,100.0,60.7,React;ML;Kubernetes,0
+515,Jean Ngo,35,11.6,Doctorat,66.2,27.4,Data Science,0
+516,Jean Nkou,27,10.9,Master,74.5,59.2,Java,1
+517,Mohamed Foko,31,15.0,Licence,88.6,63.1,Python;SQL;Spring,1
+518,Rose Foko,43,20.3,Licence,66.0,44.2,Kubernetes;Angular,1
+519,Samuel Mbarga,47,27.7,Licence,100.0,59.8,Kubernetes,1
+520,Fatou Mbarga,27,10.9,Licence,67.8,89.4,React;SQL,0
+521,Amina Ngo,47,24.9,Licence,100.0,48.5,Kubernetes;Spring;Docker,0
+522,Chantal Fokam,45,23.4,Master,100.0,60.5,Angular;Kubernetes;SQL;Java,1
+523,Grace Fokam,27,4.3,Master,42.1,44.7,Kubernetes,0
+524,Mohamed Momo,47,23.0,Master,87.5,57.5,Spring;Python;React;Data Science,1
+525,Paul Fokam,47,24.1,Licence,94.7,56.4,ML;SQL,1
+526,Marie Mbi,46,21.3,DUT,83.2,52.7,ML;Java,1
+527,Rose Nkou,36,15.1,DUT,100.0,35.7,Kubernetes;Spring;Data Science,1
+528,Samuel Ngo,28,4.7,Doctorat,49.1,52.9,ML;Spring;Docker,1
+529,Marie Nkou,52,31.7,DUT,100.0,70.5,Java;Data Science;SQL;Python,1
+530,Marie Mbarga,39,13.3,Master,79.1,61.3,Kubernetes,1
+531,Jean Fokam,32,12.0,DUT,59.6,63.5,SQL;Spring,1
+532,Amina Ngann,47,28.5,Licence,100.0,46.7,React,1
+533,Jean Ngo,48,21.0,Licence,95.8,60.5,Docker;Data Science,1
+534,Samuel Momo,32,12.1,Licence,70.2,53.9,React;SQL;Data Science;Kubernetes,0
+535,Eric Nkou,54,35.0,Licence,100.0,36.7,Spring;Python;Angular,1
+536,Mohamed Nkou,25,0.4,Licence,44.4,54.5,Kubernetes;Java;SQL;React,0
+537,Eric Ngo,37,21.0,Master,73.8,41.1,ML,1
+538,Samuel Fokam,24,4.3,Doctorat,62.5,41.1,React;Docker;Kubernetes;SQL,1
+539,Fatou Ngo,44,20.9,Master,100.0,57.7,Angular;Docker,1
+540,Marie Fokam,21,0.0,Licence,50.2,54.2,React,0
+541,Grace Mbi,29,9.7,BTS,72.1,33.4,Python;Spring,0
+542,Grace Foko,49,28.2,Master,100.0,69.8,Java;C++,1
+543,Fatou Tchou,24,4.6,Licence,44.0,58.0,Spring;SQL,0
+544,Grace Foko,52,28.2,Master,100.0,45.1,Kubernetes;Data Science;Java;SQL,1
+545,Mohamed Ngo,20,0.0,Licence,52.4,28.5,C++,0
+546,Samuel Fokam,37,11.8,Licence,93.2,48.0,Spring;Docker;SQL,0
+547,Eric Tchou,51,29.7,DUT,100.0,43.8,Spring,1
+548,Samuel Ngann,30,6.3,Licence,84.4,51.6,Spring;React;Docker,1
+549,Yves Momo,40,16.8,Master,92.9,49.9,React,0
+550,Samuel Nkou,45,27.7,BTS,100.0,21.9,Python;C++,1
+551,Jean Mbarga,44,26.3,Master,100.0,49.6,Java,1
+552,Jean Foko,41,21.8,Licence,90.6,45.7,Data Science;Docker;Kubernetes,1
+553,Chantal Mbi,46,21.7,Licence,100.0,58.9,Kubernetes;C++,1
+554,Chantal Ngo,32,10.1,Licence,71.9,40.2,Kubernetes;Java;SQL,1
+555,Rose Tchinda,52,34.6,Master,95.6,78.5,ML;SQL;Data Science;Angular,1
+556,Eric Fokam,53,32.4,Master,100.0,28.2,Spring;React,0
+557,Samuel Fokam,54,35.0,Licence,100.0,68.4,React;ML;Java,1
+558,Yves Nkou,20,0.2,DUT,54.1,46.9,Data Science;C++;Python,0
+559,Jean Tchinda,40,19.6,Master,88.5,67.0,Spring;SQL;Docker;C++,1
+560,Yves Ngo,25,3.1,Licence,70.8,51.1,ML;Docker;Java;Kubernetes,0
+561,Fatou Mbarga,47,26.4,Master,79.4,71.0,SQL;Docker;Java;Spring,1
+562,Fatou Ngann,36,14.5,Master,80.7,49.6,Kubernetes;C++,1
+563,Mohamed Ngann,24,5.1,Licence,38.4,34.6,Data Science;Python;SQL,1
+564,Marie Foko,50,31.9,Licence,100.0,69.9,Java;Data Science;SQL;ML,1
+565,Grace Ngann,24,0.6,BTS,50.1,48.4,C++;Docker;Kubernetes;Angular,1
+566,Jean Fokam,22,0.0,Master,55.0,58.1,React,0
+567,Samuel Fokam,42,15.5,Master,70.6,72.3,C++;Data Science;ML,0
+568,Marie Momo,29,9.5,Master,84.4,40.6,Angular,1
+569,Grace Momo,29,4.7,Licence,71.9,58.3,SQL,1
+570,Rose Mbi,38,10.5,Licence,78.0,41.7,Angular,1
+571,Fatou Fokam,36,16.2,Master,80.8,53.1,Python,0
+572,Amina Nkou,40,26.5,Licence,100.0,51.0,SQL;Docker;Angular;Data Science,1
+573,Yves Mbarga,33,12.0,Licence,65.5,29.0,React;Data Science;Kubernetes,1
+574,Marie Tchou,28,9.5,BTS,79.3,39.1,C++;React;Python;SQL,1
+575,Rose Tchinda,20,0.0,DUT,69.8,68.9,Java;Python,1
+576,Jean Ngo,32,10.7,Doctorat,84.2,62.4,React;SQL,1
+577,Jean Ngann,23,4.8,BTS,50.8,49.1,C++,0
+578,Marie Tchou,20,0.0,Licence,54.3,53.4,Spring;Data Science;React,0
+579,Amina Tchou,51,30.8,DUT,96.1,45.9,Java;SQL,1
+580,Rose Nkou,53,33.0,Licence,100.0,69.0,Kubernetes;SQL;Spring,1
+581,Fatou Ngann,47,24.0,DUT,100.0,47.2,Java;Python;SQL,1
+582,Fatou Ngann,50,32.0,DUT,91.6,53.2,Docker;Angular,1
+583,Yves Ngann,27,5.5,Master,47.1,71.0,Docker;Spring;SQL;Angular,0
+584,Eric Ngann,45,21.7,DUT,90.0,39.1,Data Science,1
+585,Mohamed Foko,53,33.6,Master,100.0,76.8,Kubernetes;SQL;Docker;React,1
+586,Jean Mbi,22,0.0,Licence,35.5,28.6,Spring;Docker,1
+587,Paul Mbi,31,10.1,Master,74.9,77.8,Angular;C++;ML;Python,1
+588,Rose Nkou,20,0.0,Master,53.0,49.8,Spring;React,0
+589,Fatou Ngann,24,6.3,Licence,60.3,46.6,ML;SQL;Angular;Data Science,0
+590,Chantal Nkou,49,29.4,Master,99.7,28.5,Spring;Kubernetes;SQL;Angular,1
+591,Chantal Ngo,49,27.9,DUT,100.0,43.6,ML,0
+592,Mohamed Ngo,36,17.5,Licence,100.0,35.4,Java;Spring;Kubernetes;Angular,0
+593,Yves Tchou,42,25.2,Doctorat,94.6,41.5,ML;React,1
+594,Yves Nkou,34,14.7,DUT,72.1,48.1,SQL;C++;Angular,1
+595,Chantal Mbarga,40,19.0,DUT,93.9,63.4,Spring;Java;Data Science,0
+596,Jean Fokam,33,8.1,DUT,61.9,52.9,C++,0
+597,Fatou Ngann,21,0.0,Master,48.3,59.3,Angular;React;Python,0
+598,Fatou Mbarga,30,8.1,DUT,75.1,34.7,Spring;Data Science;ML,1
+599,Jean Tchinda,53,30.2,Doctorat,87.5,37.7,SQL;React,1
+600,Yves Tchou,53,31.4,Licence,100.0,75.2,Python;Kubernetes,1
+601,Paul Mbarga,37,16.2,Master,83.3,44.7,Data Science;C++,1
+602,Yves Tchou,49,29.6,Master,100.0,78.2,Java;Spring,1
+603,Jean Momo,34,12.8,Licence,74.5,46.6,Data Science;React;Spring,1
+604,Marie Fokam,46,26.5,Master,100.0,55.0,React;Docker,0
+605,Marie Ngo,53,32.2,Master,93.6,70.0,Data Science,1
+606,Mohamed Mbarga,52,25.1,Licence,100.0,67.8,React;Python;Angular,1
+607,Paul Ngann,43,19.2,Master,88.9,53.4,Data Science;SQL;C++,1
+608,Eric Nkou,34,12.6,Doctorat,80.5,44.6,Kubernetes;React,1
+609,Yves Mbarga,49,24.4,Master,100.0,54.2,Data Science;Java;Docker;Kubernetes,1
+610,Rose Mbarga,36,16.8,Licence,71.3,54.7,Java,0
+611,Amina Tchou,24,7.6,Licence,70.9,62.5,C++;Angular,0
+612,Grace Ngo,48,30.7,Licence,100.0,50.1,Angular;Docker;ML,1
+613,Marie Tchou,23,1.4,DUT,63.0,58.7,Angular;React;Python;SQL,0
+614,Amina Foko,29,12.5,Licence,49.5,72.9,React,0
+615,Paul Nkou,36,15.4,Master,79.6,60.3,Angular;Python;ML;SQL,0
+616,Yves Tchou,29,7.0,Licence,56.8,54.4,Spring,0
+617,Eric Mbi,36,13.2,Licence,81.6,28.7,Data Science;ML;Docker;C++,0
+618,Jean Momo,39,17.1,BTS,89.8,13.2,Docker;C++;SQL;Angular,0
+619,Jean Fokam,43,20.8,Master,83.1,60.4,SQL;Python;Data Science;Angular,1
+620,Marie Mbarga,24,3.5,Licence,48.5,48.7,C++;SQL;Java;ML,0
+621,Fatou Ngo,53,32.5,Master,100.0,47.8,React;Java;Docker;SQL,1
+622,Samuel Mbi,25,4.0,Licence,47.2,53.4,Python;Docker,1
+623,Fatou Momo,21,1.3,Master,62.7,54.2,C++;Java;Angular,1
+624,Jean Momo,32,14.6,Master,74.8,70.8,C++;Angular;Spring;Docker,1
+625,Mohamed Ngann,30,11.8,Licence,38.7,51.2,Java;Data Science,1
+626,Jean Ngann,42,16.5,Licence,78.5,39.5,ML;Python;C++;Angular,1
+627,Eric Nkou,35,6.3,Licence,50.1,63.9,Kubernetes;SQL;Docker;React,0
+628,Grace Mbarga,50,31.8,DUT,94.0,47.0,C++;Java;Spring;React,0
+629,Samuel Mbarga,30,4.9,DUT,45.0,57.4,Python;Kubernetes;React;Docker,0
+630,Chantal Mbarga,35,13.3,Licence,77.9,43.3,Spring;SQL,1
+631,Amina Mbi,27,2.5,Doctorat,70.9,40.9,C++;Spring;Kubernetes;ML,0
+632,Fatou Mbi,23,0.0,Licence,53.8,51.2,Docker,0
+633,Mohamed Ngo,23,3.6,Licence,49.9,50.2,C++;Docker;Python;Java,0
+634,Mohamed Tchinda,44,25.3,Doctorat,100.0,56.7,Kubernetes,1
+635,Fatou Foko,22,0.0,DUT,44.5,46.2,Docker;SQL;React,0
+636,Amina Nkou,51,22.2,DUT,86.1,24.3,ML,1
+637,Paul Nkou,22,0.0,Master,36.1,48.9,Python;C++;Angular;ML,0
+638,Amina Fokam,46,26.2,Licence,81.4,61.1,Spring,1
+639,Marie Mbi,48,22.6,Doctorat,90.5,45.8,Docker;Kubernetes;SQL;C++,1
+640,Fatou Mbi,51,30.6,Licence,100.0,46.6,React,0
+641,Fatou Mbarga,38,17.0,Master,82.8,68.8,Data Science;C++,1
+642,Marie Fokam,40,20.7,Licence,86.4,40.0,ML;Angular;Spring;Python,1
+643,Rose Momo,24,3.4,Master,45.5,33.4,ML;Java,0
+644,Samuel Foko,37,13.1,Licence,83.5,47.8,React,0
+645,Yves Ngo,47,29.6,Licence,93.4,43.2,Docker;Data Science;SQL,0
+646,Eric Fokam,41,19.5,DUT,98.3,36.5,SQL;Kubernetes,0
+647,Yves Mbarga,40,18.9,Licence,75.8,47.5,Java;Kubernetes,0
+648,Mohamed Tchou,25,1.2,Master,43.4,61.9,SQL;Kubernetes,0
+649,Chantal Mbarga,20,0.0,Licence,32.4,49.9,Angular;C++;SQL;Java,0
+650,Chantal Tchou,24,0.3,Licence,44.6,54.3,Java;ML;Docker,1
+651,Paul Mbarga,31,9.5,Licence,80.7,75.4,Angular;Data Science;Spring;Python,0
+652,Amina Ngann,45,29.1,Licence,100.0,45.2,C++,1
+653,Rose Fokam,53,27.9,BTS,100.0,53.9,Kubernetes;Java;React,1
+654,Rose Mbi,33,7.2,Licence,70.7,42.9,ML;Python;Spring,0
+655,Jean Tchou,45,28.4,DUT,93.6,38.2,Kubernetes;SQL;React;Spring,0
+656,Grace Mbi,46,24.4,Master,94.8,46.8,Python;Angular;SQL,0
+657,Rose Fokam,28,5.0,Master,50.6,48.3,Angular,0
+658,Samuel Momo,45,27.1,Master,100.0,60.0,Angular;SQL;Python,1
+659,Chantal Ngo,41,18.2,Master,72.0,87.9,Java;Angular,1
+660,Mohamed Ngo,49,33.5,Doctorat,100.0,40.0,Data Science,1
+661,Chantal Fokam,36,17.0,Licence,94.7,44.2,Kubernetes;Java;Angular;Spring,1
+662,Yves Nkou,45,22.5,Licence,100.0,49.1,Angular;Spring;Kubernetes;Java,1
+663,Chantal Ngann,20,5.5,BTS,56.1,55.5,Kubernetes;ML;Java,1
+664,Amina Mbi,27,4.2,DUT,66.9,53.7,ML;Spring,0
+665,Chantal Tchou,54,35.0,BTS,100.0,68.0,Python,1
+666,Eric Mbarga,34,13.9,Master,70.4,21.0,Angular;Spring,1
+667,Jean Foko,41,23.9,Doctorat,79.4,16.6,Python;Docker;Data Science;React,1
+668,Eric Ngann,33,16.7,Master,60.8,48.1,ML;SQL,1
+669,Fatou Mbi,45,24.1,Master,100.0,70.4,Data Science;C++;Python,1
+670,Fatou Tchou,47,23.7,Licence,74.8,28.1,Angular;C++,0
+671,Chantal Mbarga,42,22.4,Master,90.3,12.9,ML,0
+672,Rose Ngo,33,10.0,Licence,75.2,58.0,SQL;Python;Spring,0
+673,Yves Momo,43,28.0,Licence,100.0,53.4,Angular,1
+674,Yves Mbi,21,0.4,BTS,55.9,34.7,Kubernetes;Docker,1
+675,Paul Ngann,45,22.9,Licence,98.5,36.2,C++,1
+676,Mohamed Foko,33,12.6,Licence,90.5,36.4,Kubernetes;ML;Java,0
+677,Fatou Ngann,26,1.0,Licence,40.6,51.5,Spring,0
+678,Samuel Fokam,22,0.0,DUT,41.9,41.2,Java;Python;Angular,0
+679,Paul Momo,42,24.6,Master,89.9,61.9,Docker;React,1
+680,Samuel Fokam,37,14.0,Master,88.0,15.0,Java,1
+681,Mohamed Momo,54,29.9,BTS,100.0,38.0,Angular;SQL;Kubernetes;ML,0
+682,Jean Momo,34,14.6,BTS,84.6,34.2,Python;Data Science,1
+683,Marie Tchinda,44,26.6,Licence,100.0,46.4,Java;Docker,1
+684,Jean Ngann,47,28.2,Master,92.3,47.5,Docker;Spring;SQL;C++,1
+685,Jean Mbarga,29,11.0,Doctorat,92.0,61.2,Python;Kubernetes,0
+686,Samuel Fokam,36,12.7,Master,93.7,29.0,React;Angular;SQL,0
+687,Fatou Mbi,41,15.7,Licence,90.2,50.6,Angular;SQL,0
+688,Paul Tchou,45,28.5,BTS,100.0,57.8,React;SQL,1
+689,Marie Tchou,44,22.0,Master,74.1,81.0,Kubernetes;Angular,1
+690,Amina Tchou,36,14.2,Licence,72.1,43.3,Angular,1
+691,Paul Tchinda,32,15.0,Master,71.2,59.5,Angular,1
+692,Rose Tchou,39,19.7,Licence,98.1,24.7,SQL;Java;ML;Docker,1
+693,Mohamed Nkou,44,24.4,Licence,86.2,16.5,Spring,1
+694,Amina Foko,23,8.5,Doctorat,76.1,61.8,ML;Python;Angular;React,1
+695,Eric Mbarga,29,6.1,Licence,78.6,49.9,Spring;Python;Angular;Data Science,0
+696,Chantal Mbarga,22,3.8,Master,65.9,71.5,Docker;SQL,0
+697,Chantal Ngo,37,16.2,Master,85.8,35.8,C++;Java,1
+698,Eric Nkou,41,20.8,Licence,79.7,57.3,React;C++;ML;Kubernetes,0
+699,Fatou Tchinda,53,35.0,DUT,100.0,76.2,Angular;React,1
+700,Grace Tchou,27,7.5,Licence,80.0,55.9,SQL,1
+701,Eric Momo,38,18.6,Licence,96.6,53.9,C++;Docker;Java;React,0
+702,Mohamed Ngann,25,7.2,Licence,63.9,50.1,Java,0
+703,Paul Mbarga,45,22.9,Licence,90.8,28.0,React,1
+704,Paul Mbarga,53,29.5,Licence,84.7,69.0,Data Science;Python;React,1
+705,Jean Tchou,25,0.9,Master,38.9,46.4,Data Science,0
+706,Samuel Fokam,52,25.1,DUT,100.0,57.1,C++;Python,1
+707,Mohamed Tchinda,41,26.2,Licence,87.0,28.1,React;Data Science;Spring;Python,0
+708,Marie Foko,40,15.7,Master,83.7,38.5,Kubernetes;Java;Data Science,0
+709,Amina Mbarga,25,3.3,Master,68.7,75.1,C++;Docker;ML,1
+710,Rose Foko,25,3.2,BTS,41.3,45.1,Kubernetes;Docker,1
+711,Rose Nkou,23,2.9,Master,58.0,75.3,SQL,1
+712,Paul Mbarga,49,30.4,Licence,100.0,48.9,Spring;Data Science;Docker;Kubernetes,0
+713,Yves Nkou,30,11.6,Licence,73.3,24.2,C++;Java;Docker,0
+714,Mohamed Tchinda,49,26.3,Master,100.0,67.5,Python;Spring;Java,1
+715,Eric Ngo,50,28.5,BTS,87.0,41.7,React;Java;Docker;Angular,0
+716,Marie Tchou,43,22.8,Licence,100.0,59.8,ML;Kubernetes;Python;Docker,0
+717,Mohamed Tchinda,28,6.3,Licence,60.5,50.4,Kubernetes;Docker;Spring,0
+718,Grace Nkou,22,5.8,DUT,70.9,28.4,Data Science;React,0
+719,Yves Ngann,50,30.5,BTS,100.0,52.3,SQL;Angular,0
+720,Chantal Ngo,43,24.2,DUT,89.6,80.7,Spring,1
+721,Fatou Momo,50,31.0,Doctorat,100.0,56.9,ML;C++;Angular;Data Science,1
+722,Amina Momo,25,7.5,Licence,42.7,49.2,Java;ML;Spring;Docker,0
+723,Chantal Nkou,21,0.5,Master,58.2,70.1,Spring;Kubernetes;ML,0
+724,Grace Tchinda,39,14.1,Master,81.8,57.9,Java;Docker;ML,1
+725,Mohamed Mbarga,47,27.2,Licence,100.0,52.9,ML;React;C++,1
+726,Chantal Foko,30,7.0,Master,76.7,39.7,Docker;ML,1
+727,Grace Nkou,23,0.4,Master,55.2,58.3,React;Spring,0
+728,Fatou Fokam,34,14.8,Licence,81.4,64.5,Python,0
+729,Marie Mbarga,25,7.7,Doctorat,54.8,38.3,Java;React,0
+730,Marie Mbarga,49,28.1,Master,97.7,74.9,React;C++,1
+731,Samuel Nkou,21,0.9,DUT,66.0,48.7,Data Science;C++;React,1
+732,Marie Foko,34,18.1,Licence,100.0,37.6,ML;C++;Docker;Kubernetes,1
+733,Amina Foko,30,9.7,Licence,66.5,64.0,Java;Spring;Kubernetes,0
+734,Chantal Tchou,27,13.8,Master,78.2,51.0,React;Python;Angular;Docker,1
+735,Chantal Tchinda,45,25.7,Licence,90.5,60.6,React;Java,1
+736,Rose Ngo,24,0.0,Master,64.1,50.9,Kubernetes;Angular;SQL,1
+737,Samuel Tchou,25,6.3,Doctorat,70.6,49.2,Java,1
+738,Paul Fokam,45,25.1,Licence,100.0,56.9,Java;Docker;SQL;ML,0
+739,Yves Ngann,23,5.9,Master,51.3,59.1,Kubernetes;Python;ML;SQL,1
+740,Eric Ngo,38,19.0,Master,83.5,27.1,Java,1
+741,Amina Tchinda,39,17.6,Licence,88.0,34.3,Angular;Data Science;Spring,0
+742,Chantal Ngann,52,27.3,DUT,100.0,63.0,Kubernetes;Java,0
+743,Yves Nkou,39,17.4,BTS,82.2,48.2,SQL;Java;Python,0
+744,Marie Fokam,31,7.4,Master,54.3,47.7,Data Science;Angular;SQL,1
+745,Samuel Mbarga,20,0.0,Master,60.6,36.0,ML,0
+746,Jean Ngo,45,25.8,Master,100.0,39.9,Java;Python;ML,1
+747,Paul Mbi,33,17.0,DUT,73.0,21.7,Docker;SQL;Angular,0
+748,Yves Mbi,30,10.2,Master,86.7,53.6,React;Spring,1
+749,Mohamed Momo,32,7.4,Master,78.8,46.6,React;C++,1
+750,Marie Nkou,22,2.3,BTS,56.2,36.5,Data Science;SQL;Spring;C++,0
+751,Samuel Nkou,52,34.6,Licence,100.0,49.0,Data Science;React,0
+752,Amina Ngo,25,2.2,BTS,61.0,55.1,Docker;Data Science;C++,0
+753,Chantal Tchinda,29,7.6,Licence,54.9,79.3,Java;Data Science;ML,1
+754,Grace Tchinda,24,3.0,Licence,56.4,28.8,ML;Python;C++,0
+755,Rose Tchou,42,18.6,Licence,61.4,66.2,C++;Java;Python;Data Science,0
+756,Rose Momo,29,9.9,DUT,80.3,63.6,Docker,1
+757,Amina Tchou,21,0.0,BTS,31.3,39.1,Docker;Python;React;C++,0
+758,Rose Fokam,32,12.3,Master,92.6,57.8,Python;React;Docker;Java,1
+759,Paul Tchinda,21,0.0,Master,46.0,48.6,ML;SQL;Docker,0
+760,Fatou Fokam,39,16.7,Master,80.9,57.6,ML;Java;Kubernetes,1
+761,Jean Mbi,20,1.2,DUT,44.9,71.1,SQL;Angular,0
+762,Amina Mbarga,28,5.9,Master,58.3,63.5,Kubernetes;Data Science;Docker,0
+763,Mohamed Momo,36,20.2,Licence,100.0,57.1,Kubernetes;React;Spring,1
+764,Samuel Momo,28,5.8,Licence,31.7,44.0,Spring;Python;Data Science;Angular,0
+765,Paul Ngann,30,9.7,Doctorat,84.7,29.2,ML;SQL;React,0
+766,Chantal Ngann,34,15.8,Master,85.7,52.1,Python;Kubernetes;Angular;Spring,1
+767,Samuel Mbarga,43,17.7,Licence,70.9,66.9,Spring;Java,0
+768,Mohamed Tchinda,54,27.7,Licence,92.5,28.6,Python;C++,0
+769,Fatou Ngann,49,23.4,BTS,100.0,35.2,React;SQL,1
+770,Samuel Fokam,50,32.8,Licence,100.0,51.8,Java,1
+771,Rose Nkou,24,1.3,Master,38.8,41.2,Data Science;React;Spring,0
+772,Jean Tchou,33,19.7,DUT,100.0,38.9,Kubernetes;Angular,1
+773,Chantal Nkou,30,7.3,Master,68.7,49.1,Python,0
+774,Amina Nkou,28,7.6,Licence,53.9,30.9,Spring;ML;Java,0
+775,Samuel Tchinda,53,35.0,Master,100.0,41.4,Python;Kubernetes;Spring;Docker,1
+776,Amina Tchinda,31,16.0,BTS,69.7,59.8,SQL,1
+777,Mohamed Ngann,54,35.0,Master,100.0,36.7,Python;Data Science;ML,1
+778,Samuel Tchinda,54,35.0,DUT,100.0,27.6,Java;Data Science,0
+779,Amina Ngo,20,2.1,Licence,60.6,41.2,React;Java;Kubernetes,1
+780,Amina Mbi,41,21.8,Master,97.9,65.2,SQL;Java,1
+781,Chantal Mbi,48,29.3,Master,100.0,52.2,Spring;Java;C++;Data Science,0
+782,Paul Ngann,27,4.3,BTS,58.6,43.5,Angular,0
+783,Marie Momo,30,6.5,Licence,48.8,50.6,Data Science;Docker;Angular;C++,0
+784,Jean Nkou,33,12.0,BTS,79.4,25.6,C++;React;Java;Spring,0
+785,Jean Nkou,49,27.5,Master,100.0,61.9,Data Science;C++;Kubernetes,1
+786,Marie Tchinda,54,31.6,Licence,100.0,55.4,Spring;Docker;Java;ML,1
+787,Jean Foko,40,21.1,Licence,87.9,44.3,Data Science;Python,1
+788,Yves Tchinda,24,5.9,BTS,66.8,64.1,Java;Angular,0
+789,Grace Mbarga,38,17.3,Licence,84.0,34.2,Angular;ML;Kubernetes;Python,1
+790,Jean Nkou,33,16.4,Licence,71.0,65.8,Kubernetes,1
+791,Chantal Ngann,45,20.6,Licence,100.0,52.2,React;Java;Angular,1
+792,Amina Tchou,23,1.4,BTS,80.6,45.3,Docker;SQL;Kubernetes,0
+793,Paul Ngann,44,20.8,Master,94.0,54.7,C++;ML,0
+794,Rose Mbarga,44,17.4,Doctorat,74.0,48.5,Docker;Kubernetes,1
+795,Rose Tchinda,37,15.8,Licence,63.0,67.1,Docker,1
+796,Grace Tchinda,27,5.6,Master,64.3,39.9,Python;C++;Java,1
+797,Paul Mbi,33,16.5,Master,96.2,44.3,ML;Docker;Java;Data Science,1
+798,Mohamed Ngann,51,31.9,BTS,100.0,64.5,Java;SQL,1
+799,Samuel Ngann,52,27.9,DUT,100.0,41.7,React;Spring,1
+800,Eric Tchinda,42,26.6,Licence,96.1,62.6,Kubernetes,1
+801,Rose Mbi,34,16.7,Master,70.3,78.8,Python,0
+802,Rose Tchinda,52,32.7,Licence,100.0,44.4,SQL;Angular,0
+803,Marie Tchinda,44,22.3,Master,100.0,64.5,Spring;C++;ML,1
+804,Fatou Mbarga,36,12.1,Licence,55.7,33.8,Spring;Java;ML,0
+805,Fatou Momo,52,29.9,Licence,100.0,60.6,SQL,1
+806,Rose Tchou,21,3.3,Licence,63.5,52.8,Angular;React;SQL,1
+807,Eric Nkou,33,17.7,Master,100.0,61.6,C++,1
+808,Yves Momo,25,8.6,Licence,51.1,41.0,Python;SQL;Docker,1
+809,Samuel Foko,25,2.5,Master,38.6,31.7,ML;Java;React;Docker,0
+810,Eric Mbarga,22,0.0,Master,48.2,62.0,React;Spring;Kubernetes;C++,0
+811,Fatou Momo,26,5.4,Licence,66.8,21.1,Spring;C++,0
+812,Marie Tchou,27,0.7,Doctorat,73.0,45.6,ML;SQL;Angular;Docker,1
+813,Paul Ngann,34,14.0,Licence,86.5,63.2,Java;Data Science;Kubernetes,1
+814,Chantal Fokam,48,26.6,Master,100.0,57.7,C++;React;SQL,1
+815,Rose Momo,52,29.6,Master,96.9,82.3,C++;Docker;Angular;Spring,1
+816,Grace Foko,49,23.2,Licence,100.0,64.4,ML,1
+817,Rose Fokam,46,26.5,Licence,91.4,40.8,Angular;React,1
+818,Jean Mbarga,48,25.4,Licence,100.0,50.4,React;Kubernetes,1
+819,Eric Momo,52,27.5,DUT,100.0,49.3,React;Python;C++,1
+820,Mohamed Mbarga,46,16.4,Master,100.0,32.8,Python;Data Science;SQL,1
+821,Fatou Nkou,52,30.9,Master,100.0,41.8,Data Science;C++,1
+822,Mohamed Ngann,23,7.3,Master,63.0,47.1,Kubernetes;React;ML,0
+823,Fatou Tchou,41,25.0,Licence,93.8,21.5,Docker,0
+824,Jean Mbi,21,0.0,Master,45.9,55.7,Java;C++;Data Science,1
+825,Rose Ngo,29,6.2,Doctorat,67.5,46.5,C++;Python;SQL;Data Science,1
+826,Marie Tchinda,24,4.4,Licence,59.7,26.6,Spring;Data Science,0
+827,Fatou Tchou,29,5.0,Licence,52.9,55.7,Java,1
+828,Paul Foko,52,31.9,Licence,100.0,60.0,ML;Java;Docker;Spring,1
+829,Samuel Tchinda,32,13.3,Master,77.5,58.2,ML;Data Science;SQL;React,1
+830,Jean Momo,50,32.7,DUT,89.9,45.5,Data Science;React;Angular;Docker,1
+831,Marie Ngo,43,21.7,Licence,98.9,58.3,Angular;Kubernetes;Spring;Docker,1
+832,Paul Tchou,34,12.4,Master,63.0,64.5,ML;Angular,0
+833,Amina Nkou,48,24.4,Licence,85.0,54.3,Docker;Data Science;React;SQL,1
+834,Yves Tchinda,27,3.5,DUT,36.8,38.5,Java;Kubernetes;SQL,0
+835,Jean Tchinda,24,2.3,Licence,33.1,53.9,Python;Spring;C++;Docker,0
+836,Mohamed Fokam,48,28.1,Master,89.9,71.7,Angular,1
+837,Yves Ngann,23,4.7,Master,50.9,46.6,Docker,0
+838,Yves Fokam,31,7.6,Master,88.6,84.4,SQL;Kubernetes,1
+839,Fatou Ngo,21,4.5,Master,52.7,47.6,Python;Java;React;ML,1
+840,Samuel Ngann,46,24.2,Licence,100.0,50.5,Spring;Data Science;ML,1
+841,Jean Foko,50,28.9,Licence,100.0,40.6,React;Docker;Angular,0
+842,Samuel Foko,45,21.8,Licence,95.2,53.1,SQL;React;Spring,1
+843,Chantal Mbi,46,17.7,Licence,84.5,25.6,Angular;React;C++;Java,1
+844,Amina Momo,24,5.7,Master,47.1,47.4,Kubernetes,1
+845,Mohamed Tchou,39,20.2,Licence,100.0,34.7,C++,1
+846,Rose Mbarga,30,8.2,Licence,88.1,51.9,Python,1
+847,Marie Ngann,29,8.2,Master,46.2,68.9,ML;SQL,1
+848,Paul Momo,25,5.5,DUT,48.7,59.0,Angular,0
+849,Eric Mbarga,27,1.3,Master,49.2,21.8,Spring;Angular,0
+850,Grace Ngann,42,19.4,Licence,77.2,78.6,Docker;React;ML;Spring,0
+851,Chantal Mbarga,45,26.4,Licence,100.0,54.1,SQL;Python,0
+852,Chantal Fokam,31,6.2,DUT,53.7,39.1,Kubernetes;Python;ML;Angular,0
+853,Yves Fokam,45,24.9,Licence,100.0,52.2,React;SQL;Kubernetes;Docker,0
+854,Eric Mbarga,32,6.9,Licence,78.1,52.5,Data Science;Python;ML,1
+855,Jean Momo,37,17.4,Master,87.4,45.7,Java;Python,1
+856,Samuel Foko,44,22.9,Master,100.0,57.8,SQL,0
+857,Fatou Tchou,52,26.2,Master,100.0,46.5,Java;SQL;Spring;Data Science,1
+858,Marie Mbarga,31,13.5,Licence,70.2,44.3,SQL;Kubernetes,1
+859,Amina Fokam,23,0.0,Licence,40.2,40.4,Python,1
+860,Mohamed Momo,24,0.6,DUT,52.1,29.9,Java;React,0
+861,Paul Mbi,27,6.6,Licence,73.5,52.0,Docker;Kubernetes;SQL;Spring,1
+862,Rose Tchou,47,29.4,Master,100.0,63.2,C++;ML;Kubernetes;Java,1
+863,Jean Mbi,50,26.0,Master,83.1,62.2,SQL;Spring;Angular;React,1
+864,Eric Nkou,28,7.2,Master,54.8,66.5,C++;Python;Data Science;Angular,0
+865,Grace Mbi,48,28.3,Licence,100.0,54.5,C++;ML,1
+866,Yves Foko,33,14.1,Licence,77.3,42.5,Java,0
+867,Amina Nkou,41,20.5,Master,100.0,66.8,Angular,1
+868,Paul Ngann,30,7.9,BTS,49.2,31.0,Java;C++;React;Kubernetes,0
+869,Jean Tchou,42,18.5,DUT,93.1,37.4,SQL;C++;Kubernetes,1
+870,Rose Mbarga,20,0.0,Licence,67.9,36.5,C++;Spring,0
+871,Mohamed Ngo,40,15.8,Licence,100.0,65.1,Java;SQL,1
+872,Mohamed Foko,45,15.2,DUT,75.5,63.2,Python;C++;SQL;Kubernetes,0
+873,Jean Tchou,42,22.3,Master,100.0,61.8,Docker;Spring,1
+874,Fatou Tchinda,20,1.7,BTS,60.2,65.0,ML;Kubernetes;Java;SQL,0
+875,Amina Fokam,34,5.9,Licence,64.1,37.7,Python;Kubernetes;Data Science,0
+876,Amina Tchinda,40,16.0,Master,80.8,59.9,Kubernetes;React,0
+877,Paul Fokam,28,8.9,Master,73.0,53.2,ML;SQL;Docker;Java,0
+878,Yves Tchou,28,13.2,Master,46.0,66.9,Python;Docker;C++;Java,0
+879,Chantal Nkou,29,8.1,Master,74.4,53.4,Java;ML;Kubernetes;React,1
+880,Paul Foko,45,21.8,Licence,95.1,44.6,Angular;Data Science,1
+881,Chantal Foko,54,32.5,Master,100.0,62.6,Spring,1
+882,Jean Momo,44,27.1,Licence,100.0,62.3,Angular;SQL;Data Science,1
+883,Rose Ngann,45,22.1,Master,86.1,45.6,Spring;Data Science;SQL,1
+884,Rose Mbarga,30,6.6,DUT,58.4,49.1,Kubernetes;Angular;C++,1
+885,Paul Tchinda,21,0.0,Licence,73.9,35.2,ML;Java;Spring,0
+886,Fatou Tchinda,26,2.1,BTS,44.2,15.0,Angular;Data Science,0
+887,Chantal Nkou,37,16.4,Licence,76.2,52.8,Angular;Kubernetes;Data Science;C++,1
+888,Amina Foko,46,29.9,Master,100.0,63.5,Data Science;ML;Docker,1
+889,Jean Foko,53,33.0,DUT,100.0,53.7,Angular,1
+890,Eric Mbarga,46,24.2,Licence,100.0,22.7,Angular,1
+891,Mohamed Momo,36,14.1,Licence,62.7,45.1,Docker;Spring;SQL;C++,0
+892,Eric Mbi,43,17.3,Master,78.2,23.9,C++;Docker;React,0
+893,Jean Ngann,44,25.6,Licence,93.9,69.2,Java;Kubernetes,1
+894,Eric Ngo,26,4.8,Master,58.7,39.8,React,1
+895,Amina Ngo,25,3.5,DUT,62.1,67.6,Kubernetes,0
+896,Chantal Momo,43,31.6,Master,100.0,68.2,ML;C++;Python,1
+897,Rose Momo,52,31.9,Licence,92.5,37.4,Angular;Java,1
+898,Rose Ngann,48,24.7,Master,100.0,39.1,ML;Data Science,1
+899,Paul Tchou,41,18.7,Master,90.4,59.9,ML;SQL;Docker,1
+900,Amina Fokam,45,27.4,Licence,100.0,38.2,Data Science;Docker;Spring;Kubernetes,0
+901,Grace Tchinda,47,26.3,Master,100.0,56.4,Docker;Spring,1
+902,Grace Mbi,40,14.7,Master,92.6,48.2,Docker,1
+903,Fatou Tchinda,26,7.8,Master,71.2,30.1,Angular;Spring;SQL,0
+904,Paul Tchinda,36,13.0,Licence,92.2,18.8,Docker;Kubernetes,0
+905,Eric Tchinda,39,23.6,Master,100.0,58.2,Angular;Data Science;ML,1
+906,Rose Mbi,39,21.2,Licence,91.2,42.1,Python;Spring;React,0
+907,Fatou Momo,41,18.7,Licence,100.0,42.3,SQL;ML;React,0
+908,Mohamed Foko,47,29.8,BTS,100.0,59.7,React,0
+909,Paul Foko,26,5.2,Master,67.3,71.4,React,0
+910,Marie Tchou,20,1.6,Licence,37.9,46.2,ML;C++;Data Science,0
+911,Mohamed Tchinda,51,31.5,Licence,97.5,45.2,SQL,1
+912,Mohamed Nkou,32,8.5,Licence,70.5,57.0,Data Science;ML,1
+913,Grace Mbarga,49,26.1,Licence,100.0,31.0,Docker;ML;Python;Data Science,0
+914,Fatou Ngo,42,24.1,Licence,90.8,53.1,Docker;SQL,0
+915,Jean Tchinda,38,16.0,Licence,83.7,57.7,Python;Angular;Spring;ML,1
+916,Rose Tchou,51,28.8,Master,100.0,64.5,Python,1
+917,Marie Momo,49,25.1,Master,100.0,27.9,ML;Python;React,1
+918,Jean Foko,48,28.3,Master,92.9,44.3,Angular;SQL,1
+919,Paul Ngann,48,33.2,Master,100.0,42.7,C++;Python;Angular;Spring,1
+920,Eric Tchinda,49,24.8,Licence,89.9,51.4,Java;Data Science;ML,1
+921,Rose Foko,35,14.1,DUT,73.5,56.7,Spring,1
+922,Fatou Tchinda,38,21.2,BTS,87.4,71.0,Angular;Docker;C++,0
+923,Eric Tchinda,37,15.8,BTS,75.9,43.1,Kubernetes;C++;Angular,0
+924,Mohamed Ngann,20,0.4,BTS,35.7,43.0,Python;Java;SQL;Spring,1
+925,Rose Foko,33,8.8,DUT,66.1,66.1,React;C++;SQL,0
+926,Chantal Tchinda,21,1.3,Master,45.9,59.2,Java;Python,1
+927,Amina Mbi,47,25.4,Licence,65.6,67.7,React;ML,1
+928,Yves Tchinda,49,31.0,Master,100.0,59.0,Data Science;React;Spring;ML,1
+929,Mohamed Foko,23,5.6,Master,74.3,38.8,React;C++;Angular,0
+930,Marie Ngo,20,6.8,Master,59.1,36.3,Spring,1
+931,Paul Tchou,27,7.7,Master,65.6,33.3,Spring;C++;Data Science;Angular,1
+932,Jean Nkou,48,28.0,Licence,91.9,59.3,React;SQL;Data Science;Angular,1
+933,Samuel Mbi,22,1.6,Licence,73.5,66.6,Python;Docker;React,0
+934,Marie Fokam,51,28.9,DUT,100.0,75.9,ML;Docker,1
+935,Rose Mbarga,29,9.0,Master,69.9,66.8,SQL;Python,0
+936,Grace Tchinda,29,7.1,Master,76.5,71.3,React;Kubernetes;SQL,0
+937,Amina Ngo,38,17.5,Licence,87.1,41.9,React,0
+938,Yves Mbi,53,35.0,Licence,100.0,33.8,Python;Java;Docker,1
+939,Rose Nkou,52,28.0,BTS,100.0,61.9,Docker;ML;React;Angular,1
+940,Samuel Mbarga,42,24.4,Master,100.0,60.8,React,1
+941,Rose Foko,47,30.0,Doctorat,100.0,51.5,SQL,1
+942,Rose Momo,51,29.6,Master,100.0,60.4,Java,1
+943,Fatou Nkou,26,0.0,Master,48.9,59.5,Data Science;SQL;React,1
+944,Grace Mbarga,48,25.2,Licence,99.4,68.0,Angular;Docker;Java,0
+945,Marie Ngann,27,9.9,Master,70.4,73.1,Java;Spring,1
+946,Mohamed Tchinda,20,0.0,Master,37.3,62.6,Angular;Python,0
+947,Rose Mbi,22,0.0,Master,41.4,66.8,Angular;ML;Docker,0
+948,Fatou Momo,43,20.5,Master,75.6,62.2,Java;ML;SQL;Angular,1
+949,Rose Mbarga,42,23.5,DUT,100.0,43.5,ML;Spring,1
+950,Jean Tchou,27,7.6,Licence,39.9,60.6,Angular;SQL;C++;Java,1
+951,Jean Momo,22,0.3,BTS,64.4,30.5,C++;Spring,0
+952,Jean Ngann,52,29.9,Licence,100.0,64.8,Python;Spring,1
+953,Amina Mbarga,47,24.8,Master,96.0,38.3,SQL;React;Data Science,1
+954,Eric Ngo,27,3.2,Licence,25.2,54.0,Java;React;Kubernetes,0
+955,Grace Fokam,53,35.0,Licence,100.0,38.2,Data Science,1
+956,Paul Ngo,54,32.0,Master,100.0,62.7,Python;C++;SQL;Java,1
+957,Eric Tchinda,51,33.7,Licence,100.0,49.5,Docker,1
+958,Rose Momo,43,26.6,Master,97.0,32.7,Python,1
+959,Amina Tchou,33,15.0,DUT,98.4,55.9,Kubernetes;Spring;Docker;Python,0
+960,Mohamed Mbarga,51,28.7,Licence,100.0,41.9,C++;ML,0
+961,Yves Fokam,35,15.2,Doctorat,69.3,62.3,Python,1
+962,Eric Foko,23,1.9,Master,34.6,55.0,Data Science,0
+963,Samuel Tchou,40,16.3,Master,78.7,60.5,Python;Docker;Java;ML,1
+964,Marie Mbi,33,13.0,Licence,73.4,36.6,Angular,0
+965,Fatou Ngann,50,25.5,Licence,100.0,41.7,Docker;Angular;Kubernetes,0
+966,Grace Foko,37,19.6,Licence,82.8,43.6,C++;Angular;Python;Data Science,1
+967,Marie Tchinda,26,3.6,Licence,63.3,62.0,Data Science,0
+968,Grace Mbi,29,8.6,Licence,90.4,73.5,React,0
+969,Chantal Tchinda,26,5.8,Master,71.4,43.7,Java,0
+970,Rose Ngann,52,30.2,BTS,100.0,65.1,ML,1
+971,Samuel Momo,42,22.8,BTS,93.4,19.6,Data Science;SQL;React;Spring,1
+972,Mohamed Fokam,40,17.6,Master,80.9,38.3,ML;Data Science;React;SQL,1
+973,Eric Nkou,38,19.6,Licence,100.0,36.6,C++,0
+974,Jean Ngo,38,13.0,Licence,68.5,31.1,Data Science;ML,0
+975,Paul Foko,48,27.4,Licence,100.0,27.8,Kubernetes,1
+976,Amina Ngann,37,21.8,Licence,94.2,55.8,Kubernetes,0
+977,Chantal Mbarga,21,0.0,Master,44.0,52.0,Angular;ML;C++,0
+978,Grace Mbi,20,0.0,Master,33.5,60.3,React;Angular,0
+979,Marie Tchinda,24,4.5,Licence,62.9,59.7,React;Java,0
+980,Mohamed Mbi,39,18.5,Licence,86.3,53.7,Spring;Python,0
+981,Marie Tchinda,30,10.1,BTS,76.2,59.2,Python;Data Science,1
+982,Jean Mbi,21,1.5,Doctorat,46.6,49.0,React;C++;Angular,1
+983,Yves Mbi,22,2.9,Licence,70.4,33.4,Java;React;Angular;ML,0
+984,Chantal Tchou,42,24.3,DUT,88.1,64.8,ML,0
+985,Chantal Tchou,31,11.2,DUT,92.9,41.8,Python,0
+986,Chantal Mbi,39,17.3,Licence,63.6,36.9,C++,1
+987,Fatou Foko,24,5.0,Licence,65.2,47.5,C++;React,0
+988,Fatou Mbi,49,33.7,Master,100.0,42.2,Python,1
+989,Mohamed Mbarga,28,6.6,DUT,53.7,44.2,Spring;React,0
+990,Grace Ngo,53,29.1,BTS,100.0,54.8,Java;React,1
+991,Eric Foko,54,35.0,Licence,100.0,54.9,C++,1
+992,Mohamed Mbi,41,19.6,Licence,62.6,37.4,Spring;Python,1
+993,Rose Tchinda,43,15.5,Master,87.0,48.2,Data Science,0
+994,Rose Mbi,36,17.5,Master,55.1,70.0,Java;Spring,1
+995,Jean Tchou,29,6.4,Licence,51.2,56.9,Docker;SQL;ML,1
+996,Yves Ngo,49,27.7,BTS,100.0,79.1,Kubernetes;C++;ML;Data Science,1
+997,Eric Momo,42,22.0,Master,87.0,71.5,Angular,1
+998,Chantal Tchou,51,30.6,BTS,97.1,66.0,Angular;Java;Docker;Data Science,1
+999,Mohamed Momo,36,17.1,BTS,81.8,30.6,Python;React;Docker;Angular,1
+1000,Grace Nkou,36,13.7,Master,100.0,65.7,Kubernetes,1
